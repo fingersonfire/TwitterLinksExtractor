@@ -73,10 +73,10 @@ echo "Extraction of the Youtube URLS"
 cat $URLSLIST | grep youtu > $URLSYOUTUBE
 
 echo
-echo "Extraction of the Youtube URLS"
+echo "Extraction of the Spotify URLS"
 cat $URLSLIST | grep spotify > $URLSSPOTIFY
 
 echo
-echo "Extraction of the Youtube URLS"
+echo "Extraction of the Deezer URLS"
 cat $URLSLIST | grep deezer > $URLSDEEZER
 

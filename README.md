@@ -42,3 +42,9 @@ At the moment the script separates links from the following sources:
 - Deezer
 
 It could simply adapted to catch other webistes.
+
+## Alternative Scrapers
+At the moment the script is using TWINT as a scrapper but you could use some others
+- https://github.com/taspinar/twitterscraper
+- https://github.com/bisguzar/twitter-scraper
+
